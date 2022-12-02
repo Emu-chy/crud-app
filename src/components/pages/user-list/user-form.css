@@ -1,0 +1,26 @@
+input[type="text"] {
+    height: 40px;
+    width: 40%;
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+
+
+  .btn{
+    height: 35px;
+    width: 80px;
+    background-color: rgb(11, 90, 236);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  .btn2{
+    height: 35px;
+    width: 80px;
+    background-color: rgb(8, 71, 40);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer
+  }

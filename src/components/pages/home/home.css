@@ -1,0 +1,18 @@
+.header {
+    background-color: darkblue;
+    color: white;
+    border: 3px solid transparent;
+    text-align: center;
+    font-size: 20px;
+    height: 70px;
+  }
+h3{
+    text-align: center;
+    margin-top: 8px;
+  }
+
+  .container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+  }
